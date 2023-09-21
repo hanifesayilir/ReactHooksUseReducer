@@ -113,7 +113,7 @@ export default function App() {
               onClick={() => dispatch({ type: "closeAccount" })}
               disabled={!isActive}
           >
-            Close account
+            Close account 2
           </button>
         </p>
       </div>
